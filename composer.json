@@ -1,12 +1,17 @@
 {
   "name": "demo/demo",
   "description": "description_text",
-  "license": "proprietary",
   "minimum-stability": "stable",
+  "license": "proprietary",
   "authors": [
     {
       "name": "author's name",
       "email": "email@example.com"
     }
-  ]
+  ],
+  "require": {
+    "araqalik/exel-csv-xlsx": "v1.0.0",
+    "barryvdh/laravel-ide-helper": "v2.4.1",
+    "laravel/laravel": "v5.5.0"
+  }
 }
