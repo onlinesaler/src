@@ -1,0 +1,12 @@
+{
+  "name": "demo/demo",
+  "description": "description_text",
+  "license": "proprietary",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ]
+}
